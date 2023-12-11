@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.MainKtTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-12-11T17:29:41" hostname="LAPTOP-OMRF39NI" time="0.026">
+  <properties/>
+  <testcase name="calculateСommissionWithoutDiscountVisa" classname="ru.netology.MainKtTest" time="0.02"/>
+  <testcase name="calculateСommissionWithDiscountMasterCard" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="isLimitExceededTrueVisa" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="isLimitExceededTrueMir" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateСommissionWithoutDiscountVKPay" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateСommissionWithoutDiscountMasterCard" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="isLimitExceededTrueMasterCard" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateСommissionWithoutDiscountMir" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="calculateСommissionWithDiscountVisa" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateСommissionWithoutDiscountMaestro" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="isLimitExceededTrueVKPay" classname="ru.netology.MainKtTest" time="0.0"/>
+  <testcase name="calculateСommissionWithDiscountMir" classname="ru.netology.MainKtTest" time="0.001"/>
+  <testcase name="isLimitExceededTrueMaestro" classname="ru.netology.MainKtTest" time="0.0"/>
+  <system-out><![CDATA[Комиссия за перевод составляет 35
+Комиссия за перевод составляет 500
+Операция отклонена, превышен лимит переводов.
+Операция отклонена, превышен лимит переводов.
+Комиссия за перевод составляет 0
+Комиссия за перевод составляет 0
+Операция отклонена, превышен лимит переводов.
+Комиссия за перевод составляет 35
+Комиссия за перевод составляет 675
+Комиссия за перевод составляет 0
+Операция отклонена, превышен лимит переводов.
+Комиссия за перевод составляет 825
+Операция отклонена, превышен лимит переводов.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
